@@ -43,6 +43,10 @@ body {
   padding: 18px 15px;
 }
 
+.nav:nth-of-type(2){
+  background: green;
+}
+
 
 .nav__list {
   display: flex;
