@@ -43,7 +43,7 @@ body {
   padding: 18px 15px;
 }
 
-.nav:nth-of-type(2){
+.nav:nth-of-type(){
   background: green;
 }
 
@@ -381,8 +381,6 @@ body {
   justify-content: space-between;
   margin-top: 140px;
 }
-
-.footer__links {}
 
 .footer__links_title {
   font-family: var(--font-family);
